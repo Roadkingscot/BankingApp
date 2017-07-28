@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CD3CB663-89C5-4240-9625-D95D67D76E17}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankingApp.git Status">
+    <Files>
+      <File FileName="BankingApp.git Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BankingApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
